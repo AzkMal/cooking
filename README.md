@@ -5,4 +5,4 @@
  
  put:rightClick
 
- cut and wash space
+ cut and wash:space
